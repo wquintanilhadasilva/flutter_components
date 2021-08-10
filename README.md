@@ -1,9 +1,7 @@
-# cadart_codigo_fonte
+# Criação de componentes genéricos
 
-Cadart App Artistas - Ministério do Turismo
+
 
 ## TODO Complementar informações
 
 
-
-### Basis Tecnologia S/A
